@@ -1,7 +1,7 @@
 # Optimizing Urban Heat Mitigation and Cooling Strategies via Artificial Intelligence and Machine Learning (AIML)
 
 ## Team Name
-UNION GIANT
+UNIONS GIANT
 
 ## Bharatiya Antariksh Hackathon 2026
 
