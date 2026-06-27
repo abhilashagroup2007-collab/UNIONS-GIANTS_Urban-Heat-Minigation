@@ -15,7 +15,7 @@ An AI-powered Urban Heat Mitigation Decision Support System that utilizes satell
 - Predict Heat-Risk Levels
 - Analyze Contributing Factors
 - Recommend Location-Specific Cooling Strategies
-
+  
 ### Features
 - Heat Vulnerability Mapping
 - Heat Risk Prediction
@@ -26,6 +26,13 @@ An AI-powered Urban Heat Mitigation Decision Support System that utilizes satell
 ### Demo
 Website :
 https://urban-heat-optimizer--anitaaru.replit.app
+
+### Team Contribution
+
+1) Abhilasha M Jadhav (Leader) :- Website development , presentation , Github repository ,Project inteagration & Final Submission.
+2) Vaishnavi Pal :- Research  & Report Document
+3) Vrushali Bidwai :- Future Roadmap and blueprint document
+4) Yashika Singh :- UI mockups , visuals assents and diagrams.
 
  ###Team 
  UNION GIANTS
